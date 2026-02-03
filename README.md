@@ -11,3 +11,11 @@ Android Wallpaper App is a simple mobile application that allows users to browse
 - Fast loading images
 
 ---
+## 🛠️ Tech Stack
+- **Language:** Kotlin / Java
+- **IDE:** Android Studio
+- **UI:** XML
+- **Image Loading:** Glide / Picasso
+- **API:** Unsplash API (optional)
+
+---
